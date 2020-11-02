@@ -6,3 +6,5 @@ branch3 line4
 branch4 line5
 branch5 line6
 branch6 line7
+feature1 line1
+feature2 line1
